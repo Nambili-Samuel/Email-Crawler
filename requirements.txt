@@ -1,0 +1,6 @@
+
+re
+requests
+lxml
+csv
+urllib
